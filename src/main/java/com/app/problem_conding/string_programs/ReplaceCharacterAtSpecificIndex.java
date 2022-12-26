@@ -9,7 +9,7 @@ public class ReplaceCharacterAtSpecificIndex {
         System.out.println(replaceCharUsingString(str,6,'K'));
         System.out.println("Original String Object: "+ str);
     }
-    public static String replaceCharUsingString(String str,int index,char c) {
+    public static String replaceCharUsingString(String str, int index, char c) {
         if (str.isEmpty())
             return "";
 
