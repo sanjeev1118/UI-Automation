@@ -1,4 +1,4 @@
-package problem_conding;
+package com.app.problems.basic;
 
 public class ReverseString2 {
     private static String str = "This is a cow"; // op - woc a si sihT

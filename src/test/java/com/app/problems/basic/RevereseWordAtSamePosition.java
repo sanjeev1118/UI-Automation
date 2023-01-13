@@ -1,4 +1,4 @@
-package problem_conding;
+package com.app.problems.basic;
 
 public class RevereseWordAtSamePosition {
     public static void main(String[] args) {

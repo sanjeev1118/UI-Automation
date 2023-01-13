@@ -1,4 +1,4 @@
-package problem_conding.string_programs;
+package com.app.problems.basic;
 
 import java.util.Scanner;
 

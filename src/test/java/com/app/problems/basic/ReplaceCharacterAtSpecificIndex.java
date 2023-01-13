@@ -1,4 +1,4 @@
-package problem_conding.string_programs;
+package com.app.problems.basic;
 
 public class ReplaceCharacterAtSpecificIndex {
     public static void main(String[] args) {

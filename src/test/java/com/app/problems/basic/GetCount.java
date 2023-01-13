@@ -1,4 +1,4 @@
-package problem_conding;
+package com.app.problems.basic;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

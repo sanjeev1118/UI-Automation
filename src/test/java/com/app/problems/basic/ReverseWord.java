@@ -1,4 +1,4 @@
-package problem_conding;
+package com.app.problems.basic;
 
 public class ReverseWord {
     public static void main(String[] args) {
