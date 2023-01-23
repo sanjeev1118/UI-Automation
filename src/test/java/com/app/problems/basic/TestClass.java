@@ -24,6 +24,9 @@ public class TestClass {
     System.out.println("Consumer:");
     consumer.accept(12);
 
+    int no = 26;
+    char c = (char)26;
+    System.out.println(c);
 
   }
 
