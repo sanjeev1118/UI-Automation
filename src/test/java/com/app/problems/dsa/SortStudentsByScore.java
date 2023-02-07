@@ -15,6 +15,7 @@ public class SortStudentsByScore {
         queue.offer(23);
 
         queue.stream().map(n -> n+1).forEach(n -> System.out.println(n));
+        System.out.println(Thread.currentThread().isInterrupted());
         return null;
     }
 }
